@@ -110,7 +110,7 @@ Q: このQ&Aに質問を投げたいのですが、どうすればよいです�
 
 A: 土木・環境工学総合演習のサイトから私のメアド宛にメールを飛ばすか、あるいはこのGithubのIssue
 
-https://github.com/kazulagi/Lecture/issues
+[https://github.com/kazulagi/Lecture/issues](https://github.com/kazulagi/Lecture/issues)
 
 に書き込んでください。
 
